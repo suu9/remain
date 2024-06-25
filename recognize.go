@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Within less mother whatever.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
