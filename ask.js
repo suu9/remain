@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # While day late be both.
 console.log("Hello, World!");
+
+# Something performance both state.
+console.log("Hello, World!");
